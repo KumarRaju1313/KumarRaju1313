@@ -1,88 +1,104 @@
-<h1 align="center">Hi 👋, I'm Neela Kumar Raju</h1>
+# 🌠 Neela Kumar Raju | Data Sorcerer ✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Career+Shift:+Accounting+to+Data+Science!;Python+%7C+Machine+Learning+%7C+Power+BI+%7C+Deep+Learning;Let's+Turn+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=700&color=FF2D55¢er=true&vCenter=true&width=600&lines=From+Numbers+to+Neural+Magic!;Python+%7C+AI+%7C+Power+BI+%7C+NLP;Unleashing+Data's+Hidden+Power+%F0%9F%94%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kumar-raju-neela"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://medium.com/@kr868867"><img src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge" /></a>
-  <a href="mailto:neelakumarraju@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kumar-raju-neela"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" /></a>
+  <a href="https://medium.com/@kr868867"><img src="https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=plastic" /></a>
+  <a href="mailto:neelakumarraju@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=plastic" /></a>
+  <a href="https://github.com/KumarRaju1313"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KumarRaju1313&theme=gruvbox&no-frame=true&margin-w=10&column=5" width="80%" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🪐 About the Data Voyager
 
-📌 I’m a **B.Com graduate** with 2+ years of experience in accounting & billing  
-🔁 Made a bold **career shift into Data Science** with a passion for data & automation  
-🎓 Completed a Data Science program & internship at **Innomatics Research Labs**  
-🧠 Skilled in **Python, ML, Power BI, Deep Learning**, and **NLP tools**  
-🚀 Actively looking for **Data Science / Analytics / BI roles**
+- 🎓 **B.Com Alumnus** with 2+ years mastering accounting 📊
+- 🔄 Swapped ledgers for algorithms, diving into **Data Science** 🚀
+- 🧑‍🏫 Trained at **Innomatics Research Labs**, conjuring data spells 🪄
+- 🛠️ Wields **Python, ML, NLP, and Power BI** with finesse
+- 🔎 Hunting for **Data Scientist** or **Analytics Wizard** roles
+- 💡 Obsessed with turning raw data into **epic insights** 🌟
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡️ Tech Spellbook
 
 ```python
-Languages        = ["Python", "SQL"]
-Libraries        = ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn"]
-Visualization    = ["Power BI", "Excel"]
-MachineLearning  = ["Regression", "Classification", "Clustering", "SVM", "Random Forest"]
-DeepLearning     = ["CNN", "ANN", "Transfer Learning"]
-NLP              = ["Whisper", "Llama 2"]
-Tools_IDEs       = ["Jupyter", "Google Colab", "VS Code"]
+# My Magical Toolkit 🪄
+Languages       = ["🐍 Python", "🗄️ SQL"]
+Libraries       = ["📊 Pandas", "🔢 NumPy", "🤖 Scikit-Learn", "🔥 TensorFlow", "🧠 Keras"]
+Visualization   = ["📈 Power BI", "🎨 Seaborn", "📉 Matplotlib"]
+ML_Skills       = ["📈 Regression", "🏷️ Classification", "🌳 Random Forest", "🔗 Clustering"]
+DL_Skills       = ["🧠 CNN", "🔄 RNN", "🚀 Transfer Learning"]
+NLP_Powers      = ["🗣️ Whisper", "🤖 LLaMA 2", "📚 Hugging Face"]
+Tools           = ["📓 Jupyter", "☁️ Google Colab", "💻 VS Code", "🐙 Git"]
+```
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Stellar Creations
 
-#### 🧠 Face Re-Identification with Deep Learning  
-A smart system that recognizes and re-identifies faces using 3 pre-trained models: **MobileNetV2**, **VGG16**, and **ResNet50V2**.
+### 🧑‍🚀 Face Recognition Nebula  
+A mesmerizing system to identify faces with **deep learning** magic. 🌌
 
-- 📸 32,000+ facial images processed  
-- 🔄 Applied data augmentation to reduce overfitting  
-- ⚖️ Compared model performance & inference speed  
-- 🚀 Achieved fast prediction with optimized model sizes  
-- 🔧 Python, CNN, Keras, ONNX
+- 📸 Conquered **32,000+ images** with smart augmentation
+- 🧠 Powered by **MobileNetV2**, **VGG16**, and **ResNet50V2**
+- ⚡ Blazing-fast predictions with **ONNX** optimization
+- 📊 Compared accuracy and speed for stellar performance
+- 🛠️ Tools: 🐍 Python, 🧠 Keras, 🔥 TensorFlow, 🚀 ONNX, 🌐 CNN
 
----
+### 🎙️ VoiceSync LLM Enchanter  
+A spellbinding **speech-to-speech AI** for seamless conversations. 🗣️
 
-#### 🗣️ LLM Speech-to-Speech Chatbot  
-Built an interactive speech-based chatbot powered by **LLaMA 2** and **Whisper** 🗣️🤖
-
-- 🔁 Converts voice → text → LLM reply → speech  
-- 🎙️ Used OpenAI Whisper, Llama 2, and Pyttsx3  
-- 🎛️ Handles input via mic, webcam, or text  
-- ⏱️ Real-time experience with response in ~3s  
-- 🔧 Python, LLM, NLP, Whisper, Text-to-Speech
+- 🎤 Transforms **voice → text → LLM → speech** in a flash
+- 🤖 Fueled by **LLaMA 2**, **Whisper**, and **Pyttsx3**
+- ⏱️ Lightning-fast **~2.5s** response time
+- 🎛️ Works with mic, webcam, or text inputs
+- 🛠️ Tools: 🐍 Python, 🗣️ NLP, 🎙️ Whisper, 🔊 Text-to-Speech
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Cosmic Stats
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarRaju1313&show_icons=true&theme=radical" width="47%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarRaju1313&theme=radical" width="47%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarRaju1313&show_icons=true&theme=monokai&hide_border=true&bg_color=1A1B27&title_color=FF2D55&text_color=FFFFFF&icon_color=FF2D55" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarRaju1313&theme=monokai&hide_border=true&background=1A1B27&stroke=FF2D55&ring=FF2D55&fire=FF2D55&currStreakLabel=FF2D55" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarRaju1313&layout=compact&theme=monokai&hide_border=true&bg_color=1A1B27&title_color=FF2D55&text_color=FFFFFF" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KumarRaju1313&theme=monokai" width="45%" />
 </p>
 
 ---
 
-### ✍️ Articles & Blogs
+## 📜 Tales from the Data Realm
 
-📘 [Check out my Medium Articles](https://medium.com/@kr868867)  
-I write about **Python**, **Data Science**, **NLP**, and real project experiences.
-
----
-
-### 🤝 Let's Connect
-
-📬 Email: [neelakumarraju@gmail.com](mailto:neelakumarraju@gmail.com)  
-🔗 LinkedIn: [kumar-raju-neela](https://www.linkedin.com/in/kumar-raju-neela)  
-📝 Medium: [kr868867](https://medium.com/@kr868867)
+📝 I chronicle my **Data Science**, **Python**, and **NLP** adventures on Medium.  
+🔗 [Explore My Medium Cosmos](https://medium.com/@kr868867)
 
 ---
 
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> 
+## 🌍 Connect Across the Galaxy
+
+- 📧 **Email**: [neelakumarraju@gmail.com](mailto:neelakumarraju@gmail.com) 📬
+- 🔗 **LinkedIn**: [kumar-raju-neela](https://www.linkedin.com/in/kumar-raju-neela) 🤝
+- 📝 **Medium**: [kr868867](https://medium.com/@kr868867) ✍️
+- 🐙 **GitHub**: [KumarRaju1313](https://github.com/KumarRaju1313) 💻
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KumarRaju1313&color=FF2D55&style=plastic&label=Starship+Visitors" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF2D55&height=150§ion=footer&text=Join+the+Data+Adventure!&fontColor=FFFFFF&fontSize=20" />
 </p>
