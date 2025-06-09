@@ -20,7 +20,7 @@
 
 <h3 align="center">🧠 Skills & Tools</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,numpy,pandas,scikit-learn,matplotlib,seaborn,powerbi,vscode,github,git,sql" />
 </p>
 
