@@ -99,4 +99,15 @@ Dev Tools       = ["Jupyter", "VS Code", "Google Colab", "Git"]
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=Crafting+Data+Magic+Everyday!&fontColor=FFFFFF&fontSize=20" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFFFFF&height=150&section=footer&text=Crafting+Data+Magic+Everyday!&fontColor=bd93f9&fontSize=20" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=capsule&color=90:00b7eb,007bff&height=150&section=footer&text=Crafting+Data+Magic+Everyday!&fontColor=FFFFFF&fontSize=20" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=90:28a745,00FF00&height=150&section=footer&text=Crafting+Data+Magic+Everyday!&fontColor=FFFFFF&fontSize=20" />
+</p>
 ---
