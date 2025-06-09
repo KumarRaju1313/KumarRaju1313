@@ -3,9 +3,12 @@
 <h1 align="center">🌠 Neela Kumar Raju | Data Sorcerer ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions;Python+%7C+ML+%7C+Power+BI+%7C+NLP;Passionate+about+AI-powered+solutions+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=700&color=FF2D55&center=true&vCenter=true&width=600&lines=From+Numbers+to+Neural+Magic!;Python+%7C+AI+%7C+Power+BI+%7C+NLP;Unleashing+Data's+Hidden+Power+%F0%9F%94%AE" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KumarRaju1313&theme=flat&no-frame=true&margin-w=10&column=5" width="80%" />
+</p>
 ---
 
 <h3 align="center">📌 Career Snapshot</h3>
