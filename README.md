@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">🌠 Neela Kumar Raju | Data Sorcerer ✨</h1>
+<h1 align="center">🌠 Neela Kumar Raju ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=700&color=FF2D55&center=true&vCenter=true&width=600&lines=From+Numbers+to+Neural+Magic!;Python+%7C+AI+%7C+Power+BI+%7C+NLP;Unleashing+Data's+Hidden+Power+%F0%9F%94%AE" alt="Typing SVG" />
