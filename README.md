@@ -28,13 +28,13 @@
 </p>
 
 ```python
-Languages       = ["Python 🐍", "SQL 🗄️"]
+Languages       = ["Python", "SQL"]
 Libraries       = ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Keras"]
 Visualization   = ["Power BI", "Seaborn", "Matplotlib"]
 ML Techniques   = ["Regression", "Classification", "Clustering"]
 Deep Learning   = ["CNN", "RNN", "Transfer Learning"]
 NLP Frameworks  = ["Whisper", "Hugging Face", "LLaMA 2"]
-Dev Tools       = ["Jupyter", "VS Code", "Google Colab", "Git"]
+Dev Tools       = ["Jupyter", "VS Code", "Google Colab"]
 ```
 
 ---
