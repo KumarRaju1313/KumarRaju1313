@@ -1,5 +1,3 @@
----
-
 <h1 align="center">🌠 Neela Kumar Raju ✨</h1>
 
 <p align="center">
@@ -9,13 +7,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KumarRaju1313&theme=flat&no-frame=true&margin-w=10&column=5" width="80%" />
 </p>
+
 ---
 
 <h3 align="center">📌 Career Snapshot</h3>
 
-🎓 **B.Com Graduate** with 2+ years in accounting & billing  
-📈 Reskilled as a **Data Scientist** through Innomatics Research Labs  
-🔍 Actively seeking roles in **Data Science**, **Analytics**, or **Business Intelligence**  
+🎓 <strong>B.Com Graduate</strong> with 2+ years in accounting & billing  
+📈 Reskilled as a <strong>Data Scientist</strong> through Innomatics Research Labs  
+🔍 Actively seeking roles in <strong>Data Science</strong>, <strong>Analytics</strong>, or <strong>Business Intelligence</strong>  
 💻 Core Tech: Python, Machine Learning, Deep Learning, Power BI, NLP  
 🧠 Keen on solving business problems using data-driven insights
 
@@ -98,5 +97,3 @@ Dev Tools       = ["Jupyter", "VS Code", "Google Colab"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFFFFF&height=150&section=footer&text=Crafting+Data+Magic+Everyday!&fontColor=bd93f9&fontSize=20" />
 </p>
-
----
