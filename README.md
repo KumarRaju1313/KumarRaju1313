@@ -7,14 +7,14 @@
 ---
 
 <p align="center">
-  <a href="https://portfolio-six-tau-96.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/kumar-raju-neela">
     <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:neelakumarraju@gmail.com">
     <img src="https://img.shields.io/badge/📧 Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://github.com/KumarRaju1313?tab=repositories">
+    <img src="https://img.shields.io/badge/🌐 My_Projects-grey?style=for-the-badge&logo=code&logoColor=white" />
   </a>
 </p>
 
@@ -34,9 +34,6 @@
 <p align="center">
   <a href="https://portfolio-six-tau-96.vercel.app/">
     <img src="https://img.shields.io/badge/View_Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/KumarRaju1313?tab=repositories">
-    <img src="https://img.shields.io/badge/My_Projects-grey?style=for-the-badge&logo=code&logoColor=white" />
   </a>
 </p>
 
