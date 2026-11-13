@@ -28,19 +28,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&border_radius=16&bg_color=0B1120&title_color=F2C811&icon_color=2DD4BF&text_color=CBD5E1&ring_color=F2C811
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=0B1120&title_color=F2C811&text_color=CBD5E1
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=4&hide_border=true&border_radius=16&bg_color=0B1120&title_color=F2C811&text_color=CBD5E1
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

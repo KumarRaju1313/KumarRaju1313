@@ -140,12 +140,8 @@ WHERE   github = 'KumarRaju1313';
 ## 📈 Page 5 · GitHub Analytics
 
 <p align="center">
-  <img src="profile/stats.svg" height="170" alt="GitHub stats" />
-  <img src="profile/top-langs.svg" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KumarRaju1313&hide_border=true&border_radius=16&background=0B1120&stroke=1E293B&ring=F2C811&fire=FF5F6D&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F2C811&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+  <img src="profile/top-langs.svg" height="165" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=KumarRaju1313&hide_border=true&border_radius=16&background=0B1120&stroke=1E293B&ring=F2C811&fire=FF5F6D&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F2C811&sideLabels=CBD5E1&dates=94A3B8" height="165" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -156,7 +152,7 @@ WHERE   github = 'KumarRaju1313';
   </picture>
 </p>
 
-<sub>Stats and the snake are rebuilt every day by a GitHub Action in this repo, so they never show a broken image.</sub>
+<sub>The language card and the snake are rebuilt every day by a GitHub Action in this repo, so they never show a broken image.</sub>
 
 <br />
 <br />
