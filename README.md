@@ -1,7 +1,3 @@
-<!-- ════════════════════════════════════════════════════════════════
-     kumar_raju_profile.pbix — a GitHub profile built like a BI report
-     ════════════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img src="assets/hero.svg" width="100%" alt="Neela Kumar Raju — Executive MIS at HBL Engineering Ltd., B.Com graduate, upskilling in Data Science and AI" />
 </p>
